@@ -78,28 +78,12 @@
 
 - **Frontend**: ReactJS, TailwindCSS
 - **Backend**: Node.js, ExpressJS
-- **Cơ sở dữ liệu**: MongoDB hoặc MySQL
+- **Cơ sở dữ liệu**: MySQL Workbench
 - **Xác thực**: JWT (JSON Web Token)
 
 
 ---
 
-## 🏁 Hướng dẫn chạy project (local)
-
-### 1. Clone repo
-
-- git clone https://github.com/HoGiaKham/LapTopStore
-- cd LapTopStore
-
-### 2. Cài đặt và chạy Frontend
-- cd laptopstore-frontend
-- npm install
-- npm start
-
-### 3. Cài đặt và chạy Backend
-- cd ../laptopstore-backend
-- npm install
-- npm run dev
 
 ### Cổng: http://localhost:5000
 
