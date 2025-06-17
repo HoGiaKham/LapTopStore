@@ -86,23 +86,23 @@
 
 ## 🏁 Hướng dẫn chạy project (local)
 
-### 📦 1. Clone repo
+### 1. Clone repo
 
 - git clone https://github.com/HoGiaKham/LapTopStore
 - cd LapTopStore
 
-⚙️ 2. Cài đặt và chạy Frontend
+### 2. Cài đặt và chạy Frontend
 - cd laptopstore-frontend
 - npm install
 - npm start
 
-⚙️ 3. Cài đặt và chạy Backend
+### 3. Cài đặt và chạy Backend
 - cd ../laptopstore-backend
 - npm install
 - npm run dev
 
 ### Cổng: http://localhost:5000
 
-📫 Liên hệ
-### Email: kham@example.com
-### GitHub: github.com/HoGiaKham
+### 📫 Liên hệ
+- Email: kham@example.com
+- GitHub: github.com/HoGiaKham
