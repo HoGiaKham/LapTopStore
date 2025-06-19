@@ -17,64 +17,26 @@
 
 ## 🖼️ Giao diện Demo
 
-> 📌 **Mẹo**: Nhấn vào hình để phóng to nếu xem trên GitHub.
+| Giao diện                         | Hình ảnh                                               |
+|----------------------------------|--------------------------------------------------------|
+| 🔐 Đăng nhập                     | ![](LapTopStore/image/LoginScreen.png)                |
+| 📝 Đăng ký                       | ![](LapTopStore/image/RegisterScreen.png)             |
+| 🏠 Trang chủ                     | ![](LapTopStore/image/MainScreen.png)                 |
+| 🛒 Giỏ hàng                      | ![](LapTopStore/image/CartScreen.png)                 |
+| 💳 Thông tin thanh toán          | ![](LapTopStore/image/PaymentInforScreen.png)         |
+| 💳 Xác nhận thanh toán           | ![](LapTopStore/image/PaymentScreen1.png)             |
+| 📦 Chi tiết sản phẩm             | ![](LapTopStore/image/DetailProductScreen.png)        |
+| 🔧 Chính sách bảo hành           | ![](LapTopStore/image/GuaranteeScreen.png)            |
+| ✉️ Liên hệ                       | ![](LapTopStore/image/ContactScreen.png)              |
+| 👤 Quản lý người dùng (Admin)    | ![](LapTopStore/image/AccountAdminScreen.png)         |
+| 🛍️ Quản lý sản phẩm             | ![](LapTopStore/image/ProductScreen.png)              |
+| 📦 Quản lý đơn hàng              | ![](LapTopStore/image/OrderManagementScreen.png)      |
+| 📁 Danh mục & Thương hiệu        | ![](LapTopStore/image/CategoriesManagementScreen.png) |
+| 📊 Trang thống kê                | ![](LapTopStore/image/StaticalScreen.png)             |
+| 🚚 Thông tin Shipper             | ![](LapTopStore/image/InforShipperScreen.png)         |
+| 📦 Chính sách vận chuyển         | ![](LapTopStore/image/ShippingPolicyScreen.png)       |
+| 🤖 Chatbot AI hỗ trợ             | ![](LapTopStore/image/AIScreen.png)                   |
 
-<table>
-  <tr>
-    <td align="center"><b>🔐 Đăng nhập</b><br><img src="LapTopStore/image/LoginScreen.png" width="250"/></td>
-    <td align="center"><b>📝 Đăng ký</b><br><img src="LapTopStore/image/RegisterScreen.png" width="250"/></td>
-    <td align="center"><b>🏠 Trang chủ</b><br><img src="LapTopStore/image/MainScreen.png" width="250"/></td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center"><b>🛒 Giỏ hàng</b><br><img src="LapTopStore/image/CartScreen.png" width="250"/></td>
-    <td align="center"><b>💳 Thanh toán</b><br><img src="LapTopStore/image/PaymentInforScreen.png" width="250"/></td>
-    <td align="center"><b>💳 Xác nhận</b><br><img src="LapTopStore/image/PaymentScreen1.png" width="250"/></td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center"><b>📦 Chi tiết sản phẩm</b><br><img src="LapTopStore/image/DetailProductScreen.png" width="250"/></td>
-    <td align="center"><b>🔧 Bảo hành</b><br><img src="LapTopStore/image/GuaranteeScreen.png" width="250"/></td>
-    <td align="center"><b>✉️ Liên hệ</b><br><img src="LapTopStore/image/ContactScreen.png" width="250"/></td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center"><b>👤 Quản lý người dùng</b><br><img src="LapTopStore/image/AccountAdminScreen.png" width="250"/></td>
-    <td align="center"><b>🛍️ Quản lý sản phẩm</b><br><img src="LapTopStore/image/ProductScreen.png" width="250"/></td>
-    <td align="center"><b>📦 Quản lý đơn hàng</b><br><img src="LapTopStore/image/OrderManagementScreen.png" width="250"/></td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center"><b>📁 Danh mục & Thương hiệu</b><br><img src="LapTopStore/image/CategoriesManagementScreen.png" width="250"/></td>
-    <td align="center"><b>📊 Thống kê</b><br><img src="LapTopStore/image/StaticalScreen.png" width="250"/></td>
-    <td align="center"><b>🚚 Thông tin Shipper</b><br><img src="LapTopStore/image/InforShipperScreen.png" width="250"/></td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center"><b>📦 Chính sách vận chuyển</b><br><img src="LapTopStore/image/ShippingPolicyScreen.png" width="250"/></td>
-    <td align="center"><b>🤖 Chatbot AI</b><br><img src="LapTopStore/image/AIScreen.png" width="250"/></td>
-  </tr>
-</table>
 
 ---
 
