@@ -1,92 +1,92 @@
-# 💻 LapTopStore - Web Bán Laptop
+# 💻 LapTopStore - Website Bán Laptop
 
-**LapTopStore** là một website bán laptop với giao diện trực quan, đầy đủ các chức năng từ đăng ký, đăng nhập, xem sản phẩm, giỏ hàng, thanh toán, đến quản lý đơn hàng dành cho admin.
+**LapTopStore** là một website thương mại điện tử chuyên bán laptop, cung cấp trải nghiệm người dùng mượt mà với các tính năng đầy đủ từ đặt hàng đến quản lý hệ thống dành cho admin.
 
 ---
 
-## 🚀 Tính năng chính
+## 🚀 Tính năng nổi bật
 
-- 🧑‍💻 Đăng ký / Đăng nhập / Quản lý tài khoản
-- 🛒 Quản lý sản phẩm, giỏ hàng, thanh toán
-- 🛍️ Chi tiết sản phẩm, chính sách bảo hành, giao hàng
-- 📦 Trang Admin: Quản lý người dùng, đơn hàng, sản phẩm, thống kê
-- 🤖 Chatbot AI hỗ trợ
+- 🔐 Đăng ký / Đăng nhập / Quản lý tài khoản
+- 🛒 Giỏ hàng, thanh toán, xem chi tiết sản phẩm
+- 📦 Quản lý đơn hàng, sản phẩm, người dùng (Admin)
+- 📈 Trang thống kê (Admin)
+- 🤖 Tích hợp Chatbot AI hỗ trợ người dùng
+- ⚙️ Chính sách bảo hành, giao hàng rõ ràng
 
 ---
 
 ## 🖼️ Giao diện Demo
 
-### 🔐 Màn hình Đăng nhập
-![Login Screen](LapTopStore/image/LoginScreen.png)
+> 📌 **Mẹo**: Nhấn vào hình để phóng to nếu xem trên GitHub.
 
-### 📝 Màn hình Đăng ký
-![Register Screen](LapTopStore/image/RegisterScreen.png)
+<table>
+  <tr>
+    <td align="center"><b>🔐 Đăng nhập</b><br><img src="LapTopStore/image/LoginScreen.png" width="250"/></td>
+    <td align="center"><b>📝 Đăng ký</b><br><img src="LapTopStore/image/RegisterScreen.png" width="250"/></td>
+    <td align="center"><b>🏠 Trang chủ</b><br><img src="LapTopStore/image/MainScreen.png" width="250"/></td>
+  </tr>
+</table>
 
-### 🏠 Màn hình chính
-![Main Screen](LapTopStore/image/MainScreen.png)
+<br>
 
-### 🛒 Trang giỏ hàng
-![Cart Screen](LapTopStore/image/CartScreen.png)
+<table>
+  <tr>
+    <td align="center"><b>🛒 Giỏ hàng</b><br><img src="LapTopStore/image/CartScreen.png" width="250"/></td>
+    <td align="center"><b>💳 Thanh toán</b><br><img src="LapTopStore/image/PaymentInforScreen.png" width="250"/></td>
+    <td align="center"><b>💳 Xác nhận</b><br><img src="LapTopStore/image/PaymentScreen1.png" width="250"/></td>
+  </tr>
+</table>
 
-### 📄 Thông tin thanh toán
-![Payment Info Screen](LapTopStore/image/PaymentInforScreen.png)  
-![Payment Screen 1](LapTopStore/image/PaymentScreen1.png)  
-![Payment Screen 2](LapTopStore/image/PaymentScreen2.png)
+<br>
 
-### 📦 Chi tiết sản phẩm
-![Detail Product Screen](LapTopStore/image/DetailProductScreen.png)
+<table>
+  <tr>
+    <td align="center"><b>📦 Chi tiết sản phẩm</b><br><img src="LapTopStore/image/DetailProductScreen.png" width="250"/></td>
+    <td align="center"><b>🔧 Bảo hành</b><br><img src="LapTopStore/image/GuaranteeScreen.png" width="250"/></td>
+    <td align="center"><b>✉️ Liên hệ</b><br><img src="LapTopStore/image/ContactScreen.png" width="250"/></td>
+  </tr>
+</table>
 
-### 🔧 Chính sách bảo hành
-![Guarantee Screen](LapTopStore/image/GuaranteeScreen.png)
+<br>
 
-### ✉️ Liên hệ
-![Contact Screen](LapTopStore/image/ContactScreen.png)  
-![Contact Admin Screen](LapTopStore/image/ContactAdminScreen.png)
+<table>
+  <tr>
+    <td align="center"><b>👤 Quản lý người dùng</b><br><img src="LapTopStore/image/AccountAdminScreen.png" width="250"/></td>
+    <td align="center"><b>🛍️ Quản lý sản phẩm</b><br><img src="LapTopStore/image/ProductScreen.png" width="250"/></td>
+    <td align="center"><b>📦 Quản lý đơn hàng</b><br><img src="LapTopStore/image/OrderManagementScreen.png" width="250"/></td>
+  </tr>
+</table>
 
-### 👤 Quản lý người dùng
-![Account Info Screen](LapTopStore/image/AccountInforScreen.png)  
-![Account Admin Screen](LapTopStore/image/AccountAdminScreen.png)
+<br>
 
-### 📦 Quản lý sản phẩm
-![Product Screen](LapTopStore/image/ProductScreen.png)  
-![Product Screen 2](LapTopStore/image/ProductScreen2.png)  
-![Product Management Screen](LapTopStore/image/ProductManagementScreen.png)
+<table>
+  <tr>
+    <td align="center"><b>📁 Danh mục & Thương hiệu</b><br><img src="LapTopStore/image/CategoriesManagementScreen.png" width="250"/></td>
+    <td align="center"><b>📊 Thống kê</b><br><img src="LapTopStore/image/StaticalScreen.png" width="250"/></td>
+    <td align="center"><b>🚚 Thông tin Shipper</b><br><img src="LapTopStore/image/InforShipperScreen.png" width="250"/></td>
+  </tr>
+</table>
 
-### 📦 Quản lý đơn hàng
-![Order Management Screen](LapTopStore/image/OrderManagementScreen.png)  
-![Shipper Order Screen](LapTopStore/image/ShipperOrderScreen.png)
+<br>
 
-### 🗂️ Quản lý danh mục & thương hiệu
-![Categories Management Screen](LapTopStore/image/CategoriesManagementScreen.png)  
-![Brand Management Screen](LapTopStore/image/BrandManagementScreen.png)
-
-### 📊 Thống kê (Admin)
-![Statistical Screen](LapTopStore/image/StaticalScreen.png)
-
-### 🚚 Thông tin Shipper
-![Infor Shipper Screen](LapTopStore/image/InforShipperScreen.png)
-
-### 📦 Chính sách vận chuyển
-![Shipping Policy Screen](LapTopStore/image/ShippingPolicyScreen.png)
-
-### 🤖 Chatbot AI hỗ trợ
-![AI Screen](LapTopStore/image/AIScreen.png)
+<table>
+  <tr>
+    <td align="center"><b>📦 Chính sách vận chuyển</b><br><img src="LapTopStore/image/ShippingPolicyScreen.png" width="250"/></td>
+    <td align="center"><b>🤖 Chatbot AI</b><br><img src="LapTopStore/image/AIScreen.png" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Công nghệ sử dụng
 
-- **Frontend**: ReactJS, TailwindCSS
-- **Backend**: Node.js, ExpressJS
-- **Cơ sở dữ liệu**: MySQL Workbench
-- **Xác thực**: JWT (JSON Web Token)
-
+| Công nghệ | Mô tả |
+|----------|-------|
+| 🎨 **Frontend** | ReactJS, TailwindCSS |
+| 🔧 **Backend** | Node.js, ExpressJS |
+| 🗃️ **Database** | MySQL (qua MySQL Workbench) |
+| 🔐 **Xác thực** | JWT (JSON Web Token) |
 
 ---
 
 
-### Cổng: http://localhost:5000
-
-### 📫 Liên hệ
-- Email: kham@example.com
-- GitHub: github.com/HoGiaKham
