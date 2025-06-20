@@ -40,6 +40,23 @@
 
 ---
 
+
+## ⚙️ Cài đặt và chạy dự án
+
+### 1. Clone project
+
+
+- git clone https://github.com/HoGiaKham/LapTopStore.git
+- cd LapTopStore
+- npm install simple-peer
+### 2. SQL Workbench
+- New MySQL Connection
+- Nhập password: 123456
+- copy và dán file laptopshop.sql
+- run
+- Open intelj, run (at main class) 
+
+
 ## 🛠️ Công nghệ sử dụng
 
 | Công nghệ | Mô tả |
